@@ -1,4 +1,5 @@
 ## Hi there 👋 I am Garima
+![g4](https://github.com/user-attachments/assets/1e451da0-4890-496d-8e29-b88ed92d01fd)
 
 <!--
 **GarimaC-git/GarimaC-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
