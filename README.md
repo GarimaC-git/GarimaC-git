@@ -1,4 +1,5 @@
-## Hi there 👋 ! I am Garima
+## Hi there 👋 !
+I am Garima
 
 
 <!--
