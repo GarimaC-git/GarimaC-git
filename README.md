@@ -1,4 +1,5 @@
-## Hi there 👋 I am Garima
+## Hi there 👋 ![GitHub-headpic](https://github.com/user-attachments/assets/7e111f65-f2fb-47da-9a64-0af51ba18ea2)
+I am Garima
 
 
 <!--
