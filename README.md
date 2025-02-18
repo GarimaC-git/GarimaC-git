@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Garima
 
+![pic](https://github.com/user-attachments/assets/4e3977cc-e248-473c-9f44-842d0474432b)
 
 
 <!--
